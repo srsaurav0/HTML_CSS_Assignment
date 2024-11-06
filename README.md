@@ -7,8 +7,7 @@ To run this project, you need to follow these steps:
 3. Then clone the repository with the command:` git clone https://github.com/srsaurav0/HTML_CSS_Assignment.git `
 4. Navigate to the directory with command: ` cd HTML_CSS_Assignment `
 5. Open the Project in a Code Editor (Optional). To open the directory in Visual Studio Code, enter command: ` code . `
-
-Open the file `HomePage.html` and run it to visit the website.
+6. Open the file `HomePage.html` and run it to visit the website.
 
 Modify the `HomePage.html` and `styles.css` files to achieve desired outputs.
 
