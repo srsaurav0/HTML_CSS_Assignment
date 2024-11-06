@@ -1072,7 +1072,7 @@ button.travelers-selector {
         display: inline;
     }
 
-    .cancellation-details {
+    /* .cancellation-details {
         background-color: #f5f5f5;
         padding: 15px;
         border-radius: 8px;
@@ -1103,7 +1103,7 @@ button.travelers-selector {
         justify-content:space-between;
         align-items: center;
         margin-top: 10px;
-    }
+    } */
 
     .imp-info-section {
         padding: 20px;
