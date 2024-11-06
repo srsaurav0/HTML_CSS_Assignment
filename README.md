@@ -57,4 +57,4 @@ Reviews Section:
 
 Additional Considerations:
 
-    Responsiveness: Ensure the design adapts to different screen sizes using media queries.
+    Responsiveness: Ensures the design adapts to different screen sizes using media queries.
